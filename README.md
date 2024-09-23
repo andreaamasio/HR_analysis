@@ -1,5 +1,5 @@
 # Introduction
-We have 3 tables, employees (1000 employees), positions (24 positions), and departments(8 departments). A position can be shared by several employees and the same for a department; therefore the tables are connected with unique id betweem them. The data is finctional and created by me. I will use PostgreSQL as DBMS and Visual Studio Code to explore interesting facts about the employees that may be helpful for HR usage. SQL queries are visible here: [employee](/Subqueries/)
+We have 3 tables, employees (1000 employees), positions (24 positions), and departments(8 departments). A position can be shared by several employees and the same for a department; therefore the tables are connected with unique id betweem them. The data is finctional and created by me. I will use PostgreSQL as DBMS and Visual Studio Code to explore interesting facts about the employees that may be helpful for HR usage. SQL queries are visible here: [link](/Subqueries/)
 
 ## Questions to answer:
 0. Check for null values and fill the values.
